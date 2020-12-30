@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quantum Music on Alan Leung Github Project Page</title>
+    <link>https://alanspace.github.io/Alan_Portfolio_advanced/tags/quantum-music/</link>
+    <description>Recent content in Quantum Music on Alan Leung Github Project Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Oct 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://alanspace.github.io/Alan_Portfolio_advanced/tags/quantum-music/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 2 - Quantum Machine Learning</title>
+      <link>https://alanspace.github.io/Alan_Portfolio_advanced/post/project-1/</link>
+      <pubDate>Thu, 15 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://alanspace.github.io/Alan_Portfolio_advanced/post/project-1/</guid>
+      <description>I have been working on quantum machine learning by implementing gradient descent for optimized parametrized circuits using pennylane and qiskit, this can tremendously improve the cost and also simplify the quantum gate. The Jupyter Notebook file may be too large so you need to reload it again.
+Description Implement a circuit that returns |01&amp;gt; and |10&amp;gt; with equal probability. Requirements :The circuit should consist only of CNOTs, RXs and RYs. Start from all parameters in parametric gates being equal to 0 or randomly chosen.</description>
+    </item>
+    
+  </channel>
+</rss>

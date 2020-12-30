@@ -1,23 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello World on Alan Leung Github Project Page</title>
-    <link>https://alanspace.github.io/Alan_Portfolio_advanced/</link>
-    <description>Recent content in Hello World on Alan Leung Github Project Page</description>
+    <title>Python on Alan Leung Github Project Page</title>
+    <link>https://alanspace.github.io/Alan_Portfolio_advanced/tags/python/</link>
+    <description>Recent content in Python on Alan Leung Github Project Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Dec 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://alanspace.github.io/Alan_Portfolio_advanced/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Project 3 - Sales Analysis Using Pandas</title>
-      <link>https://alanspace.github.io/Alan_Portfolio_advanced/post/project-3/</link>
-      <pubDate>Sun, 20 Dec 2020 11:00:59 -0400</pubDate>
-      
-      <guid>https://alanspace.github.io/Alan_Portfolio_advanced/post/project-3/</guid>
-      <description>Description This is a project using pandas to analyse the sales productivity. By means of data analysis, we can answer the following questions:
-What was the best month for sales? How much was earned that month?   It makes sense that December is the best month of sales, becasue it is the period of Christmas and public holidays. People tend to buy presents for celebration.
-What city sold the most product?</description>
-    </item>
-    
+    <lastBuildDate>Thu, 15 Oct 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://alanspace.github.io/Alan_Portfolio_advanced/tags/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 2 - Quantum Machine Learning</title>
       <link>https://alanspace.github.io/Alan_Portfolio_advanced/post/project-1/</link>
@@ -36,16 +25,6 @@ Description Implement a circuit that returns |01&amp;gt; and |10&amp;gt; with eq
       <guid>https://alanspace.github.io/Alan_Portfolio_advanced/post/project-2/</guid>
       <description>I have been working on quantum machine learning by implementing gradient descent for optimized parametrized circuits using pennylane and qiskit, this can tremendously improve the cost and also simplify the quantum gate. The Jupyter Notebook file may be too large so you need to reload it again.
 Description Implement a circuit that returns |01&amp;gt; and |10&amp;gt; with equal probability. Requirements :The circuit should consist only of CNOTs, RXs and RYs. Start from all parameters in parametric gates being equal to 0 or randomly chosen.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://alanspace.github.io/Alan_Portfolio_advanced/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://alanspace.github.io/Alan_Portfolio_advanced/contact/</guid>
-      <description>Please feel free to browse my following platofrms:
-   Platform URL     LinkedIn: https://www.linkedin.com/in/shek-lun-leung-alan/   Resume: https://resume.io/r/WbVQwTKkS   GitHub: https://github.com/alanspace   Website: https://www.alaninspiringlab.space/   Blog: https://alanblogspace.blogspot.com/   Medium: https://medium.com/@mail.alanleung   YouTube: https://www.youtube.com/channel/UCkSLnxld_1rmtgU2mWou-qg   Qiskit: https://qiskit.org/advocates/    </description>
     </item>
     
   </channel>

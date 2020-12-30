@@ -8,47 +8,38 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 15 Oct 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://alanspace.github.io/Alan_Portfolio_advanced/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Machine Learning</title>
-      <link>https://alanspace.github.io/Alan_Portfolio_advanced/tags/machine-learning/</link>
+      <title>Python</title>
+      <link>https://alanspace.github.io/Alan_Portfolio_advanced/tags/python/</link>
       <pubDate>Thu, 15 Oct 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://alanspace.github.io/Alan_Portfolio_advanced/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Quanutm Machine Learning</title>
-      <link>https://alanspace.github.io/Alan_Portfolio_advanced/tags/quanutm-machine-learning/</link>
-      <pubDate>Thu, 15 Oct 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://alanspace.github.io/Alan_Portfolio_advanced/tags/quanutm-machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Qunantum Computing</title>
-      <link>https://alanspace.github.io/Alan_Portfolio_advanced/tags/qunantum-computing/</link>
-      <pubDate>Thu, 15 Oct 2020 10:58:08 -0400</pubDate>
-      
-      <guid>https://alanspace.github.io/Alan_Portfolio_advanced/tags/qunantum-computing/</guid>
+      <guid>https://alanspace.github.io/Alan_Portfolio_advanced/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantum Computing</title>
       <link>https://alanspace.github.io/Alan_Portfolio_advanced/tags/quantum-computing/</link>
-      <pubDate>Sat, 10 Oct 2020 11:00:59 -0400</pubDate>
+      <pubDate>Thu, 15 Oct 2020 10:58:08 -0400</pubDate>
       
       <guid>https://alanspace.github.io/Alan_Portfolio_advanced/tags/quantum-computing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Quanutm Music</title>
-      <link>https://alanspace.github.io/Alan_Portfolio_advanced/tags/quanutm-music/</link>
-      <pubDate>Sat, 10 Oct 2020 11:00:59 -0400</pubDate>
+      <title>Quantum Machine Learning</title>
+      <link>https://alanspace.github.io/Alan_Portfolio_advanced/tags/quantum-machine-learning/</link>
+      <pubDate>Thu, 15 Oct 2020 10:58:08 -0400</pubDate>
       
-      <guid>https://alanspace.github.io/Alan_Portfolio_advanced/tags/quanutm-music/</guid>
+      <guid>https://alanspace.github.io/Alan_Portfolio_advanced/tags/quantum-machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantum Music</title>
+      <link>https://alanspace.github.io/Alan_Portfolio_advanced/tags/quantum-music/</link>
+      <pubDate>Thu, 15 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://alanspace.github.io/Alan_Portfolio_advanced/tags/quantum-music/</guid>
       <description></description>
     </item>
     
