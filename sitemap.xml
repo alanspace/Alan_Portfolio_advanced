@@ -3,21 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://alanspace.github.io/Alan_Portfolio_advanced/</loc>
-    <lastmod>2020-12-29T11:00:59-04:00</lastmod>
+    <loc>https://alanspace.github.io/Alan_Portfolio_advanced/tags/finance/</loc>
+    <lastmod>2020-12-30T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://alanspace.github.io/Alan_Portfolio_advanced/post/project-4/</loc>
-    <lastmod>2020-12-29T11:00:59-04:00</lastmod>
+    <loc>https://alanspace.github.io/Alan_Portfolio_advanced/</loc>
+    <lastmod>2020-12-30T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://alanspace.github.io/Alan_Portfolio_advanced/tags/machine-learning/</loc>
+    <lastmod>2020-12-30T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://alanspace.github.io/Alan_Portfolio_advanced/tags/neural-network/</loc>
+    <lastmod>2020-12-30T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://alanspace.github.io/Alan_Portfolio_advanced/post/project-5/</loc>
+    <lastmod>2020-12-30T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://alanspace.github.io/Alan_Portfolio_advanced/tags/python/</loc>
+    <lastmod>2020-12-30T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://alanspace.github.io/Alan_Portfolio_advanced/tags/</loc>
+    <lastmod>2020-12-30T11:00:59-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://alanspace.github.io/Alan_Portfolio_advanced/post/project-4/</loc>
     <lastmod>2020-12-29T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -40,20 +75,6 @@
   <url>
     <loc>https://alanspace.github.io/Alan_Portfolio_advanced/tags/raspberry-pi/</loc>
     <lastmod>2020-12-29T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://alanspace.github.io/Alan_Portfolio_advanced/tags/</loc>
-    <lastmod>2020-12-29T11:00:59-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://alanspace.github.io/Alan_Portfolio_advanced/tags/finance/</loc>
-    <lastmod>2020-12-20T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
